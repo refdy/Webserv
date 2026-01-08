@@ -4,10 +4,5 @@
 User-agent: *
 Allow: /
 
-# Tidak ada direktori khusus yang perlu diblokir karena situs statis
-# Jika nanti ada folder admin/private, bisa tambahkan:
-# Disallow: /admin/
-# Disallow: /private/
-
 # Sitemap untuk memudahkan mesin pencari
 Sitemap: https://itservice.qii.my.id/sitemap.xml
