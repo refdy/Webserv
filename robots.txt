@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# Opsional: Jika Anda ingin memblokir bot AI secara spesifik
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://qii.my.id/sitemap.xml
